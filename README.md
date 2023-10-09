@@ -1,5 +1,5 @@
-# Привет Мир ![cat](https://github.com/Goga-Rid/Goga-Rid/assets/112984775/93db3c89-292c-4eae-a68f-131cc9798534) Меня зовут Георгий!
-<img src="https://media0.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47ma43yeqs0o747i9e0hg7ejll8lyqg8oml3tbfzyk&amp;ep=v1_gifs_related&amp;rid=giphy.gif&amp;ct=g">
+# Привет Мир ![hiemoji](https://github.com/Goga-Rid/Goga-Rid/assets/112984775/2f4b4ab2-12e2-4a52-9367-8b7afeda4547) Меня зовут Георгий!
+# ![catik](https://github.com/Goga-Rid/Goga-Rid/assets/112984775/4c6f8a13-00b9-4533-a85b-520103e0cc50)
 
 ---
 
