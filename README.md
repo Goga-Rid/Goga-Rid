@@ -1,6 +1,8 @@
-# Привет Мир <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> Меня зовут Георгий!
-# <img src="https://media0.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47ma43yeqs0o747i9e0hg7ejll8lyqg8oml3tbfzyk&amp;ep=v1_gifs_related&amp;rid=giphy.gif&amp;ct=g">
+# Привет Мир ![cat](https://github.com/Goga-Rid/Goga-Rid/assets/112984775/93db3c89-292c-4eae-a68f-131cc9798534) Меня зовут Георгий!
+<img src="https://media0.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47ma43yeqs0o747i9e0hg7ejll8lyqg8oml3tbfzyk&amp;ep=v1_gifs_related&amp;rid=giphy.gif&amp;ct=g">
+
 ---
+
 ## Обо мне:
 
 Я обучаюсь на фронтенд разработчика. Начал свой путь в <a href="https://hexly.ru/#">Хекслет Колледже</a>, где тщательно изучаю работу таких технолигий как: NodeJS, ReactJS, HTML5, CSS3, Git, Sass/Scss, WebPack. В данное время еще обучаюсь, так что предлагаю взглянуть на мои проекты в закрепленных репозиториях) Explore and have fun:yum:
