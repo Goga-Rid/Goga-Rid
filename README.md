@@ -20,13 +20,13 @@
     <img width="65px" src="https://github.com/user-attachments/assets/9e3e8a42-443a-41c0-a600-0024ac7c5329" title="Typescript" alt="Typescript" />&nbsp;
     <img width="65px" src="https://github.com/user-attachments/assets/dd33a113-05ae-41ec-b42a-06ef6034ce00" title="React" alt="React" />&nbsp;
     <img width="65px" src="https://github.com/user-attachments/assets/7fbdec0b-2472-4ab1-b793-1f89794c7b6c" title="Jest" alt="Jest" />&nbsp;
-    <img width="65px"src="https://github.com/user-attachments/assets/45683a06-a07b-4420-883f-0c360895184e" title="NodeJS" alt="NodeJS" >&nbsp;
     <img width="65px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" />&nbsp;
     <img width="65px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" />&nbsp;
 </div>
 
 ## Технологии (Бэкенд)
 <div>
+    <img width="65px"src="https://github.com/user-attachments/assets/45683a06-a07b-4420-883f-0c360895184e" title="NodeJS" alt="NodeJS" >&nbsp;
     <img width="65px" src="https://github.com/user-attachments/assets/74d0e608-1361-4406-aa1e-cdbcfeab5cbd" title="Java" alt="Java" />&nbsp;
     <img width="65px" src="https://github.com/user-attachments/assets/2a7a06d1-7f99-47cb-8196-9fd3597b0931" title="Java Spring" alt="Java Spring" />&nbsp;
 </div>
