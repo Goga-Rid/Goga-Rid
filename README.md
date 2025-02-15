@@ -48,6 +48,7 @@
     <img width="65px" src="https://github.com/user-attachments/assets/d2e5cc71-1f7e-46de-91dc-894124747ccc" title="Jenkins" alt="Jenkins" />&nbsp;
     <img width="65px" src="https://github.com/user-attachments/assets/645a828f-39d2-43d4-96a1-29634099d2ed" title="Maven" alt="Maven" />&nbsp;
     <img width="65px" src="https://github.com/user-attachments/assets/145dfe38-eb0a-460c-b38d-867edafc662d" title="Gradle" alt="Gradle" />&nbsp;
+    <img width="65px" src="https://github.com/user-attachments/assets/40b683f0-7e71-4db7-a4fd-49d2788f1b9c" title="Obsidian" alt="Obsidian" />&nbsp;
 </div>
 
 ## Базы данных
