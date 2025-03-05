@@ -36,6 +36,7 @@
 ## Инструменты
 <div>
     <img width="65px" src="https://github.com/user-attachments/assets/9059c9e1-af72-453b-8b26-d91a86fb4940" title="Ubuntu" alt="Ubuntu" />&nbsp;
+    <img width="65px" src="https://github.com/user-attachments/assets/4656ed7b-d89f-4837-aafe-27ea8b43653d" title="Fedora" alt="Fedora" />&nbsp;
     <img width="65px" src="https://github.com/user-attachments/assets/fd76e2de-612e-46c1-bab2-73bf88411b95" title="VSCode" alt="VSCode" />&nbsp;
     <img width="65px" src="https://github.com/user-attachments/assets/f50676b0-176f-46a0-b8c7-284c32b6e738" title="IntelijIDEA" alt="IntelijIDEA" />&nbsp;
     <img width="65px" src="https://github.com/user-attachments/assets/db981e78-0d91-4e3e-ba32-0a8c2782dc5a" title="Git" alt="Git" />&nbsp;
