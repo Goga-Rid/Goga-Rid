@@ -1,5 +1,5 @@
 # Привет Мир <img width="35px" src="https://github.com/user-attachments/assets/cc294e30-ea4e-4530-b09e-0bb6703f8fa4" />  Меня зовут Георгий!
-# ![catik](https://github.com/Goga-Rid/Goga-Rid/assets/112984775/4c6f8a13-00b9-4533-a85b-520103e0cc50)
+<img src="https://media1.tenor.com/m/yfcLcQM_m30AAAAd/jaycemoji.gif" width="700" height="400" alt="a yellow smiley face is sitting at a desk with a computer ." fetchpriority="high">
 
 ---
 
