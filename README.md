@@ -12,7 +12,7 @@
 
 - Мой профиль на площадке: <a href="https://ru.hexlet.io/u/goga-rid">Профиль Хекслет</a>
 
-- Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-geo_rid-Swamp?style=flat&logo=Telegram&logoColor=white)](https://t.me/geo_rid) [![Gmail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:wopa22@list.ru)
+- Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-goga_dev-Swamp?style=flat&logo=Telegram&logoColor=white)](https://t.me/goga_dev) [![Gmail Badge](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:wopa22@list.ru)
 ---
 ## Технологии (Фронтенд)
 <div>
